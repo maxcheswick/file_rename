@@ -106,12 +106,12 @@ while path!="q":
 	update_progress(.25)
 	time.sleep(1)
 					             	                   
-	#accessTable()
+	
 	
 	update_progress(.50)
 	time.sleep(1)
 	
-	#outputHash(accessTable())
+	
 	
 	update_progress(.75)
 	time.sleep(1)
