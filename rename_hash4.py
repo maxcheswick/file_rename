@@ -94,8 +94,8 @@ def update_progress(progress):
 	
 print "Hello, Welcome to the Maxinatator!"
 print "Have fun and when you are finished type DONE. Thank you."
-#path = raw_input("Please type in or drag and drop a folder: ").strip()
-path = "/Users/max/Desktop/novitas/bates_folder"
+path = raw_input("Please type in or drag and drop a folder: ").strip()
+#path = "/Users/max/Desktop/novitas/bates_folder"
 csv = raw_input("Enter the csv file you wish to use:  ").strip()
 #csv = "/Users/max/Desktop/novitas/example.csv"
 while path!="q":
